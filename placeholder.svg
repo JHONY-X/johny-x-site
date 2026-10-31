@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="Placeholder project image">
+  <rect width="640" height="360" fill="#07100e"/>
+  <g stroke="#14382c" stroke-width="1">
+    <path d="M0 60h640M0 120h640M0 180h640M0 240h640M0 300h640"/>
+    <path d="M80 0v360M160 0v360M240 0v360M320 0v360M400 0v360M480 0v360M560 0v360"/>
+  </g>
+  <rect x="60" y="60" width="520" height="240" rx="10" fill="#0a1513" stroke="#34e29b" stroke-opacity=".6"/>
+  <rect x="60" y="60" width="520" height="30" rx="10" fill="#0d1f1a"/>
+  <circle cx="82" cy="75" r="5" fill="#1d3f33"/><circle cx="100" cy="75" r="5" fill="#1d3f33"/><circle cx="118" cy="75" r="5" fill="#1d3f33"/>
+  <rect x="90" y="120" width="220" height="14" rx="5" fill="#34e29b"/>
+  <rect x="90" y="150" width="340" height="10" rx="4" fill="#8ba69b" opacity=".55"/>
+  <rect x="90" y="172" width="290" height="10" rx="4" fill="#8ba69b" opacity=".4"/>
+  <polyline points="90,260 170,235 240,248 320,205 400,222 480,185 550,196" fill="none" stroke="#34e29b" stroke-width="3" stroke-linejoin="round"/>
+  <text x="320" y="335" text-anchor="middle" font-family="monospace" font-size="16" fill="#8ba69b">replace with a project screenshot</text>
+</svg>
